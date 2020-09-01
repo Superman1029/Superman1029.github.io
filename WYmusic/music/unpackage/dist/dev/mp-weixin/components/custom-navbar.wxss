@@ -1,0 +1,25 @@
+
+.navBar.data-v-12b8da7e{
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	color: white;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	width: 100vw;
+	font-size: 30rpx;
+}
+.iconfont.data-v-12b8da7e{
+	position: absolute;
+	font-size: 40rpx;
+	left: 40rpx;
+}
+.title.data-v-12b8da7e{
+	display: inline-block;
+	width: 500rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+

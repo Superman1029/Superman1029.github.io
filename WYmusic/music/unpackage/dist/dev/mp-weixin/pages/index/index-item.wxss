@@ -1,0 +1,39 @@
+
+.item.data-v-2e973784{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	font-size: 28rpx;
+	margin: 15rpx 0;
+}
+.left.data-v-2e973784{
+	position: relative;
+	width: 220rpx;
+	color: white;
+	margin-right: 30rpx;
+}
+.right.data-v-2e973784{
+	width: 440rpx;
+	line-height: 70rpx;
+	color: #555555;
+}
+.right view.data-v-2e973784{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.tip.data-v-2e973784{
+	position: absolute;
+	bottom: 10rpx;
+	left: 10rpx;
+	font-size: 22rpx;
+}
+image.data-v-2e973784{
+	width: 220rpx;
+	height: 220rpx;
+	border-radius: 10rpx;
+}
+

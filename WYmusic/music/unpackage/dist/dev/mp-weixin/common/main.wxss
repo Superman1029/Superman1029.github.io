@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+@font-face {
+  font-family: 'iconfont';  /* project id 1958395 */
+  src: url('https://at.alicdn.com/t/font_1958395_eev91myy6n.eot');
+  src: url('https://at.alicdn.com/t/font_1958395_eev91myy6n.eot?#iefix') format('embedded-opentype'),
+  url('https://at.alicdn.com/t/font_1958395_eev91myy6n.woff2') format('woff2'),
+  url('https://at.alicdn.com/t/font_1958395_eev91myy6n.woff') format('woff'),
+  url('https://at.alicdn.com/t/font_1958395_eev91myy6n.ttf') format('truetype'),
+  url('https://at.alicdn.com/t/font_1958395_eev91myy6n.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-zan:before {
+  content: "\e62d";
+}
+.icon-pause:before {
+  content: "\e6da";
+}
+.icon-play5:before {
+  content: "\e602";
+}
+.icon-search1187938easyiconnet:before {
+  content: "\e61b";
+}
+.icon-delete_rubbish:before {
+  content: "\e6ff";
+}
+.icon-close:before {
+  content: "\e606";
+}
+.icon-up_2:before {
+  content: "\e652";
+}
+.icon-play:before {
+  content: "\e601";
+}
+.icon-play1:before {
+  content: "\e665";
+}
+.icon-play2:before {
+  content: "\e651";
+}
+.icon-play3:before {
+  content: "\e698";
+}
+.icon-play4:before {
+  content: "\e664";
+}
+.icon-tubiaozhizuomoban-:before {
+  content: "\e605";
+}
+.icon-icon16:before {
+  content: "\e61a";
+}
+.icon-search:before {
+  content: "\e611";
+}
+.icon-ic_bluetoothoff:before {
+  content: "\e60c";
+}
+.icon-Bluetooth1:before {
+  content: "\eaa4";
+}
+.icon-contact:before {
+  content: "\e6fa";
+}
+.icon-rightarrow:before {
+  content: "\e622";
+}
+.icon-lightning:before {
+  content: "\e68a";
+}
+.icon-brightness-:before {
+  content: "\e603";
+}
+.icon-G-Network:before {
+  content: "\eb07";
+}
+.icon-copy:before {
+  content: "\e660";
+}
+.icon-network:before {
+  content: "\e619";
+}
+.icon-Bluetooth:before {
+  content: "\e996";
+}
+.icon-Phone:before {
+  content: "\eb88";
+}
+.icon-fire:before {
+  content: "\e729";
+}
+.icon-volume:before {
+  content: "\e600";
+}
+.icon-volume1:before {
+  content: "\e740";
+}
+.icon-Volumeyinliang:before {
+  content: "\e639";
+}
+.icon-left2:before {
+  content: "\e62c";
+}
+.icon-left1:before {
+  content: "\e635";
+}
+.icon-left:before {
+  content: "\e739";
+}
+

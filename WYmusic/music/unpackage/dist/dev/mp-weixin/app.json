@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/play/play",
+    "pages/search/search",
+    "pages/songList/songList",
+    "pages/creator/creator"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "requiredBackgroundModes": [
+    "audio"
+  ],
+  "usingComponents": {}
+}

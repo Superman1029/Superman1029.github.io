@@ -1,0 +1,1 @@
+<view class="content"><view data-event-opts="{{[['tap',[['goToSearch',['$event']]]]]}}" class="search iconfont icon-search1187938easyiconnet" bindtap="__e"><text>搜索歌曲</text></view><block wx:for="{{topListDetail}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><index-item vue-id="{{'8dd740cc-1-'+__i0__}}" itemData="{{item}}" bind:__l="__l"></index-item></block></view>

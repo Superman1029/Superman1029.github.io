@@ -1,0 +1,48 @@
+
+.bg.data-v-5830ad60{
+	width: 100vw;
+	height: 100vh;
+	background-size: 260% 150%;
+	background-position: center top; 
+	-webkit-filter: blur(40rpx) brightness(95%); 
+	        filter: blur(40rpx) brightness(95%);
+	position: absolute;
+	top: 0;
+}
+.main.data-v-5830ad60{
+	color: white;
+	position: relative;
+}
+.img.data-v-5830ad60{
+	width: 350rpx;
+	height: 350rpx;
+	overflow: hidden;
+	margin: 40rpx auto;
+	border-radius: 10rpx;
+}
+.img image.data-v-5830ad60{
+	width: 100%;
+	height: 100%;
+	-webkit-filter: brightness(110%);
+	        filter: brightness(110%);
+}
+.name.data-v-5830ad60{
+	text-align: center;
+	font-size: 36rpx;
+}
+.hr.data-v-5830ad60{
+	height: 1rpx;
+	margin: 40rpx 0;
+	background: -webkit-linear-gradient(left, #0000, #fff6, #0000);
+	background: linear-gradient(to right, #0000, #fff6, #0000);
+}
+.tag.data-v-5830ad60, .des.data-v-5830ad60{
+	margin: 40rpx;
+	font-size: 30rpx;
+}
+.des.data-v-5830ad60{
+	font-size: 27rpx;
+	line-height: 50rpx;
+}
+ 
+

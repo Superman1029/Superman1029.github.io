@@ -1,0 +1,18 @@
+
+.suggest.data-v-312c5c06{
+	margin:  0 50rpx;
+	line-height: 100rpx;
+}
+.title.data-v-312c5c06{
+	color: #007AFF;
+	font-size: 33rpx;
+}
+.iconfont.data-v-312c5c06{
+	color: gray;
+	margin-right: 20rpx;
+}
+.suggeat-item.data-v-312c5c06{
+	font-size: 33rpx;
+	color: #555;
+}
+

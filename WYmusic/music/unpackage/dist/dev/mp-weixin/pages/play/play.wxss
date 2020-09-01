@@ -1,0 +1,143 @@
+
+.bg.data-v-88bf54f4{
+	background-color: black;
+	position: fixed;
+	top: -10vh !important;  
+	left: -10vw !important;
+	z-index: -1;
+	width: 120vw !important;
+	height: 120vh !important;
+	background-size: 100% 100% !important;
+	-webkit-filter: blur(10rpx) brightness(0.5);
+	        filter: blur(10rpx) brightness(0.5);
+}
+.main.data-v-88bf54f4{
+	width: 100vw;
+	box-sizing: border-box;
+	color: white;
+	padding: 0 30rpx;
+	position: relative;
+	overflow-y: scroll;
+}
+.main .icon.data-v-88bf54f4{
+	width: 40rpx;
+	height: 40rpx;
+	border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	background-image: url(http://p1.music.126.net/KxePid7qTvt6V2iYVy-rYQ==/109951165050882728.jpg);
+	background-position: center center;
+	background-size: 45rpx 23px;
+}
+.main .title.data-v-88bf54f4{
+	font-size: 26rpx;
+	margin-left: 10rpx;
+}
+.main .zhen.data-v-88bf54f4{
+	width: 220rpx;
+	height: 530rpx;
+	-webkit-transform: rotate(-20deg);
+	        transform: rotate(-20deg);
+	position: absolute;
+	top: -65rpx;
+	left: 340rpx;
+	z-index: 1;
+}
+.CD.data-v-88bf54f4{
+	width: 500rpx;
+	height: 500rpx;
+	border-radius: 50%;
+	border: 16rpx solid #ffffff20;
+	margin: 160rpx auto 0rpx;
+	background: -webkit-linear-gradient(black 30%, transparent, black 70%), -webkit-radial-gradient(#000 50%, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555);
+	background: linear-gradient(black 30%, transparent, black 70%), radial-gradient(#000 50%, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555,#000, #555);
+	background-clip: content-box;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-animation: rotate-data-v-88bf54f4 linear 18s infinite;
+	        animation: rotate-data-v-88bf54f4 linear 18s infinite;
+}
+.CD image.data-v-88bf54f4{
+	width: 360rpx;
+	height: 360rpx;
+	border-radius: 50%;
+}
+.playBtn.data-v-88bf54f4{
+	width: 80rpx;
+	height: 80rpx;
+	margin: auto;
+	border: 2rpx solid white;
+	position: relative;
+	top: -300rpx;
+	z-index: 2;
+	text-align: center;
+	line-height: 80rpx;
+	border-radius: 50%;
+}
+.pause.data-v-88bf54f4{
+	-webkit-animation-play-state: paused;
+	        animation-play-state: paused;
+}
+.lyric.data-v-88bf54f4{
+	text-align: center;
+	line-height: 60rpx;
+	margin-top: -40rpx;
+	color: #bbb;
+	font-size: 28rpx;
+}
+.lyric .active.data-v-88bf54f4{
+	color:white;
+	font-size: 32rpx;
+}
+.shareBtn.data-v-88bf54f4{
+	width: 350rpx; 
+	height: 70rpx; 
+	color: white;
+	font-size: 28rpx;
+	background-color: rgba(0,0,0,0);
+	border: 2rpx solid white;
+	box-sizing: border-box;
+	text-align: center;
+	margin: 60rpx auto;
+	line-height: 70rpx; 
+	border-radius: 40rpx;
+}
+.also-title.data-v-88bf54f4{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.also-left.data-v-88bf54f4, .comment-title.data-v-88bf54f4{
+	font-size: 35rpx;
+}
+.also-right.data-v-88bf54f4{
+	font-size: 24rpx;
+	border: 1rpx solid gray;
+	line-height: 40rpx;
+	border-radius: 26rpx;
+	padding: 6rpx 20rpx;
+}
+@-webkit-keyframes rotate-data-v-88bf54f4{
+from{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+to{-webkit-transform: rotate(360deg);transform: rotate(360deg);}
+}
+@keyframes rotate-data-v-88bf54f4{
+from{-webkit-transform: rotate(0deg);transform: rotate(0deg);}
+to{-webkit-transform: rotate(360deg);transform: rotate(360deg);}
+}
+
+
+

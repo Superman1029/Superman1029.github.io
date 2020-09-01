@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索",
+  "usingComponents": {
+    "search-history": "/pages/search/search-history",
+    "search-hot": "/pages/search/search-hot",
+    "search-suggest": "/pages/search/search-suggest",
+    "search-result": "/pages/search/search-result"
+  }
+}

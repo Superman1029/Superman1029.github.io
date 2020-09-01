@@ -1,0 +1,9 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "custom-navbar": "/components/custom-navbar",
+    "play-simi": "/pages/play/play-simi",
+    "play-comment": "/pages/play/play-comment"
+  }
+}

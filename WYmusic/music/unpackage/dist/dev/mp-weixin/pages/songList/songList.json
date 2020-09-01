@@ -1,0 +1,7 @@
+{
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "song-item": "/pages/songList/song-item"
+  }
+}
